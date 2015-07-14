@@ -118,6 +118,14 @@ body {
 .reveal .slides section .fragment.highlight-current-blue.current-fragment {
   color: #1b91ff; }
 
+#title-footer .atLeft {
+    margin-left: 20px;
+}
+
+#title-footer .atRight {
+    margin-right: 120px;
+}
+
 .bzhcmp-color {
     color : #DB7827;
 }
