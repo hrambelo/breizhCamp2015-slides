@@ -1214,3 +1214,13 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+.aboutmelogo {
+    margin-top: 75px!important;
+}
+
+.socialme {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
