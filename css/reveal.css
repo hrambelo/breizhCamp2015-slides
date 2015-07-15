@@ -147,6 +147,18 @@ body {
     float: right!important;
 }
 
+.logo {
+    margin-top: -50px;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    width: 600px;
+    height: 225px;
+    background-image: url("../img/bzhCmpLogo.png");
+    background-size: contain;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
 /*********************************************
  * DEFAULT ELEMENT STYLES
  *********************************************/
