@@ -111,7 +111,20 @@ body {
   list-style-type: decimal; }
 
 .reveal ul {
-  list-style-type: disc; }
+  font-size: 1.75em!important;
+  list-style-type: none !important;
+}
+
+.reveal ul li {
+  background-image: url(../../img/logo-bullet.png);
+  background-repeat: no-repeat;
+  background-position: 0px 25px;
+  padding-left:35px
+}
+
+.reveal ul li.no-style {
+  background-image: none !important;
+}
 
 .reveal ul ul {
   list-style-type: square; }
@@ -213,7 +226,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #8b743d;
+  color: #43b3ff;
   text-decoration: none;
   -webkit-transition: color 0.15s ease;
   -moz-transition: color 0.15s ease;
@@ -281,7 +294,7 @@ body {
   background: rgba(0, 0, 0, 0.2); }
 
 .reveal .progress span {
-  background: #8b743d;
+  background: #ffffff;
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985); }
@@ -290,4 +303,6 @@ body {
  * SLIDE NUMBER
  *********************************************/
 .reveal .slide-number {
-  color: #8b743d; }
+  color: #ffffff; }
+
+.reveal section img { background:none; border:none; box-shadow:none; }

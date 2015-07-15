@@ -118,6 +118,55 @@ body {
 .reveal .slides section .fragment.highlight-current-blue.current-fragment {
   color: #1b91ff; }
 
+#title-footer .atLeft {
+    margin-left: 20px;
+}
+
+#title-footer .atRight {
+    margin-right: 120px;
+}
+
+.bzhcmp-color {
+    color : #DB7827;
+}
+
+.white {
+    color: white!important;
+}
+
+.black {
+    color: black!important;
+}
+
+.atLeft {
+    float: left;!important;
+    z-index: 1000;
+}
+
+.atRight {
+    float: right!important;
+}
+
+#title-footer .atLeft {
+    margin-left: 20px;
+}
+
+#title-footer .atRight {
+    margin-right: 120px;
+}
+
+.logo {
+    margin-top: -50px;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    width: 600px;
+    height: 225px;
+    background-image: url("../img/bzhCmpLogo.png");
+    background-size: contain;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
 /*********************************************
  * DEFAULT ELEMENT STYLES
  *********************************************/
@@ -1173,3 +1222,18 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+.vcentered {
+    margin-top: 200px!important;
+}
+
+.aboutmelogo {
+    margin-top: 75px!important;
+}
+
+.socialme {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
