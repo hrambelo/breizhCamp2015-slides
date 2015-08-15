@@ -1214,6 +1214,12 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+.finger {
+    margin-left: 400px !important;
+    margin-top : -150px !important;
+}
+
 .aboutmelogo {
     margin-top: 75px!important;
 }
