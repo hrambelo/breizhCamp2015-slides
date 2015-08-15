@@ -118,6 +118,27 @@ body {
 .reveal .slides section .fragment.highlight-current-blue.current-fragment {
   color: #1b91ff; }
 
+.bzhcmp-color {
+    color : #DB7827;
+}
+
+.white {
+    color: white!important;
+}
+
+.black {
+    color: black!important;
+}
+
+.atLeft {
+    float: left;!important;
+    z-index: 1000;
+}
+
+.atRight {
+    float: right!important;
+}
+
 /*********************************************
  * DEFAULT ELEMENT STYLES
  *********************************************/
