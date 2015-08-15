@@ -1235,3 +1235,7 @@ body {
     align-items:center;
 }
 
+.rebase {
+    position: absolute;
+}
+
