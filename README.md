@@ -5,8 +5,9 @@ My contribution to BreizhCamp (http://www.breizhcamp.org) event edition 2015
 
 # Renderings
 
-* Live :  http://slidedeck.io/hrambelo/breizhCamp2015-slides 
+* Live :  http://slidedeck.io/hrambelo/breizhCamp2015-slides (slidedeck broken, WIP a fix)
 * Pdf : http://fr.slideshare.net/bensmania/retour-vers-le-passfutur-avec-git
+* Video : https://www.youtube.com/watch?v=DlYbXNxUKOE
 
 
 # Acquiring This Repo
